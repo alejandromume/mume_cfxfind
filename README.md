@@ -3,8 +3,8 @@ CFX Finder implemented in a script for FiveM
 
 ## <ins>Screenshots
 
-![https://raw.githubusercontent.com/alejandromume/mume_cfxfind/main/screenshot.JPG][https://raw.githubusercontent.com/alejandromume/mume_cfxfind/main/screenshot.JPG]
-
+![image](https://user-images.githubusercontent.com/43515908/124633344-146e8e00-de7d-11eb-81b3-2c53098aa041.png)
+  
 ## <ins>Description
 * Obtain the `IP:Port` from a FiveM server just with the `CFX Code`
 
